@@ -1,0 +1,10 @@
+# Environments & Caches
+__pycache__/
+*.pyc
+.env
+venv/
+
+# Generated Outputs (Don't upload these to GitHub)
+extracted_data.xlsx
+screenshots/*
+!screenshots/.gitkeep
